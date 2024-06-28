@@ -1,7 +1,7 @@
 name: maparea
 description: A container enabled scaling and dragging its inner child widget.
 version: 0.1.0
-homepage:
+homepage: https://github.com/treeinfra/maparea
 environment: {sdk: ">=3.4.3 <4.0.0", flutter: ">=3.22.0"}
 
 dependencies:
