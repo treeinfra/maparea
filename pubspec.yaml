@@ -1,4 +1,4 @@
-name: mapview
+name: maparea
 description: A container enabled scaling and dragging its inner child widget.
 version: 0.1.0
 homepage:
@@ -6,6 +6,7 @@ environment: {sdk: ">=3.4.3 <4.0.0", flutter: ">=3.22.0"}
 
 dependencies:
   flutter: {sdk: flutter}
+  modifier: ^0.1.1
 
 dev_dependencies:
   flutter_test: {sdk: flutter}
